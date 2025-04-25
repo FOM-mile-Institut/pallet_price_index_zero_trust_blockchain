@@ -1,4 +1,4 @@
-# Palett-Price-Index-Zerotrust-Blockchain
+# Pallet-Price-Index-Zerotrust-Blockchain
 *This is a reference implementation for demonstration and academic purposes.*
 
 This script processes a JSON file containing data, computes weekly statistics, generates zero-knowledge proofs (ZKPs) using the noknow library, 
