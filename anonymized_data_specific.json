@@ -1,0 +1,3712 @@
+{
+  "id": "DE_ALL_V1",
+  "result": 89.25,
+  "base": 12.23845,
+  "date": "2024-09-01",
+  "data": [
+    [
+      {
+        "price": 11.82,
+        "amount": 851,
+        "zipcode": "91685",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 11.44,
+        "amount": 380,
+        "zipcode": "25960",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 12.1,
+        "amount": 660,
+        "zipcode": "39752",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 12.5155,
+        "amount": 660,
+        "zipcode": "31455",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 15.95,
+        "amount": 660,
+        "zipcode": "49836",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 13.45,
+        "amount": 700,
+        "zipcode": "35423",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 11.4,
+        "amount": 660,
+        "zipcode": "20113",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.08,
+        "amount": 660,
+        "zipcode": "75361",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.8247,
+        "amount": 660,
+        "zipcode": "25763",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 19.22,
+        "amount": 626,
+        "zipcode": "72158",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 15.92,
+        "amount": 660,
+        "zipcode": "53566",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 13.9,
+        "amount": 660,
+        "zipcode": "79152",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 12.77,
+        "amount": 660,
+        "zipcode": "79566",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 11.7,
+        "amount": 660,
+        "zipcode": "88936",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 12.72,
+        "amount": 660,
+        "zipcode": "21195",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 16.8247,
+        "amount": 660,
+        "zipcode": "41181",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 11.1237,
+        "amount": 660,
+        "zipcode": "94758",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 19.6701,
+        "amount": 660,
+        "zipcode": "52158",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 12.0825,
+        "amount": 660,
+        "zipcode": "41758",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 14.77893333,
+        "amount": 660,
+        "zipcode": "43758",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 13.4948,
+        "amount": 660,
+        "zipcode": "29192",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 18.0412,
+        "amount": 740,
+        "zipcode": "49164",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 19.268,
+        "amount": 740,
+        "zipcode": "39629",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 12.134,
+        "amount": 660,
+        "zipcode": "49626",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 14.134,
+        "amount": 660,
+        "zipcode": "49744",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 17.6776,
+        "amount": 660,
+        "zipcode": "39824",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 14.829,
+        "amount": 660,
+        "zipcode": "39627",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.9794,
+        "amount": 1320,
+        "zipcode": "49046",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 16.2268,
+        "amount": 1480,
+        "zipcode": "46356",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 14.6747,
+        "amount": 1320,
+        "zipcode": "19856",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 16.829,
+        "amount": 1320,
+        "zipcode": "49457",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.5155,
+        "amount": 660,
+        "zipcode": "80193",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 18.7808,
+        "amount": 660,
+        "zipcode": "30074",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 17.7772,
+        "amount": 660,
+        "zipcode": "11649",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 12.5464,
+        "amount": 660,
+        "zipcode": "15381",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 14.7772,
+        "amount": 660,
+        "zipcode": "53361",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 16.33505,
+        "amount": 660,
+        "zipcode": "25387",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 15.8247,
+        "amount": 660,
+        "zipcode": "25521",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.6608,
+        "amount": 660,
+        "zipcode": "49798",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 12.1856,
+        "amount": 740,
+        "zipcode": "39993",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 18.0825,
+        "amount": 660,
+        "zipcode": "41393",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 18.829,
+        "amount": 660,
+        "zipcode": "49883",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 14.9278,
+        "amount": 660,
+        "zipcode": "79391",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 10.3918,
+        "amount": 660,
+        "zipcode": "49313",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 18.0309,
+        "amount": 660,
+        "zipcode": "45393",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 15.5867,
+        "amount": 660,
+        "zipcode": "42755",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 13.1856,
+        "amount": 660,
+        "zipcode": "32742",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 14.8763,
+        "amount": 660,
+        "zipcode": "32718",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 16.4948,
+        "amount": 660,
+        "zipcode": "42754",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 15.2371,
+        "amount": 660,
+        "zipcode": "32968",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 14.7216,
+        "amount": 660,
+        "zipcode": "72708",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.7254,
+        "amount": 660,
+        "zipcode": "62788",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 17.6713,
+        "amount": 1980,
+        "zipcode": "86393",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.5979,
+        "amount": 1980,
+        "zipcode": "49379",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.1856,
+        "amount": 1980,
+        "zipcode": "49093",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.8763,
+        "amount": 1320,
+        "zipcode": "69343",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.0309,
+        "amount": 1980,
+        "zipcode": "19293",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 17.829,
+        "amount": 1980,
+        "zipcode": "39363",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 11.5867,
+        "amount": 660,
+        "zipcode": "52755",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 13.7254,
+        "amount": 660,
+        "zipcode": "35754",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 15.7216,
+        "amount": 660,
+        "zipcode": "62752",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 15.134,
+        "amount": 660,
+        "zipcode": "32257",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 17.0309,
+        "amount": 660,
+        "zipcode": "52458",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 13.8247,
+        "amount": 660,
+        "zipcode": "92658",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 10.7772,
+        "amount": 660,
+        "zipcode": "25525",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 10.8247,
+        "amount": 660,
+        "zipcode": "65066",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 14.0825,
+        "amount": 660,
+        "zipcode": "25866",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 11.5867,
+        "amount": 660,
+        "zipcode": "31158",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 13.2371,
+        "amount": 660,
+        "zipcode": "32148",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 11.7216,
+        "amount": 660,
+        "zipcode": "72858",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 18.2887,
+        "amount": 660,
+        "zipcode": "32768",
+        "country": "Germany",
+        "date": "2024-08-18"
+      },
+      {
+        "price": 13.6037,
+        "amount": 660,
+        "zipcode": "49325",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 15.3918,
+        "amount": 660,
+        "zipcode": "41346",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.0309,
+        "amount": 660,
+        "zipcode": "43376",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 17.9278,
+        "amount": 660,
+        "zipcode": "29326",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 17.9794,
+        "amount": 740,
+        "zipcode": "49388",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.1856,
+        "amount": 660,
+        "zipcode": "42327",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 13.7732,
+        "amount": 660,
+        "zipcode": "49328",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 18.7732,
+        "amount": 660,
+        "zipcode": "29396",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.829,
+        "amount": 660,
+        "zipcode": "49056",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.7808,
+        "amount": 660,
+        "zipcode": "30144",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.2371,
+        "amount": 660,
+        "zipcode": "30671",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 17.8247,
+        "amount": 660,
+        "zipcode": "30180",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 16.7808,
+        "amount": 660,
+        "zipcode": "70173",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 12.2371,
+        "amount": 660,
+        "zipcode": "89173",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 19.8247,
+        "amount": 660,
+        "zipcode": "27173",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 11.7772,
+        "amount": 660,
+        "zipcode": "26736",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 13.8247,
+        "amount": 660,
+        "zipcode": "08936",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 16.8763,
+        "amount": 660,
+        "zipcode": "03932",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 18.8247,
+        "amount": 660,
+        "zipcode": "73436",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 13.824725,
+        "amount": 660,
+        "zipcode": "83946",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 11.7772,
+        "amount": 660,
+        "zipcode": "83976",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 16.0526,
+        "amount": 660,
+        "zipcode": "24971",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 16.5263,
+        "amount": 660,
+        "zipcode": "24956",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 13.2632,
+        "amount": 660,
+        "zipcode": "74975",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 14.9895,
+        "amount": 660,
+        "zipcode": "22176",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 11.7772,
+        "amount": 660,
+        "zipcode": "25416",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 10.8247,
+        "amount": 660,
+        "zipcode": "48566",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 18.7526,
+        "amount": 660,
+        "zipcode": "28566",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 15.8247,
+        "amount": 660,
+        "zipcode": "55556",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 11.101,
+        "amount": 660,
+        "zipcode": "25563",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 19.0825,
+        "amount": 660,
+        "zipcode": "25510",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 17.0309,
+        "amount": 660,
+        "zipcode": "07566",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 19.3131,
+        "amount": 660,
+        "zipcode": "55560",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 11.7772,
+        "amount": 660,
+        "zipcode": "29596",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 17.8247,
+        "amount": 660,
+        "zipcode": "85966",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 17.1598,
+        "amount": 660,
+        "zipcode": "22566",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 15.829,
+        "amount": 660,
+        "zipcode": "29552",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 12.3918,
+        "amount": 660,
+        "zipcode": "49182",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 12.0309,
+        "amount": 660,
+        "zipcode": "49455",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 17.0825,
+        "amount": 660,
+        "zipcode": "49552",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.8763,
+        "amount": 660,
+        "zipcode": "29122",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 11.0825,
+        "amount": 660,
+        "zipcode": "49152",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 15.7772,
+        "amount": 660,
+        "zipcode": "23102",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 15.8247,
+        "amount": 660,
+        "zipcode": "01102",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 17.0309,
+        "amount": 660,
+        "zipcode": "21172",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.2,
+        "amount": 660,
+        "zipcode": "25147",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 13.6701,
+        "amount": 660,
+        "zipcode": "99107",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 19.5155,
+        "amount": 660,
+        "zipcode": "21877",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 14.7697,
+        "amount": 660,
+        "zipcode": "37685",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 10.2371,
+        "amount": 660,
+        "zipcode": "37125",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 11.7216,
+        "amount": 660,
+        "zipcode": "31981",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 10.7732,
+        "amount": 660,
+        "zipcode": "37105",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 17.701,
+        "amount": 660,
+        "zipcode": "31675",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 17.8081,
+        "amount": 660,
+        "zipcode": "39125",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 15.8247,
+        "amount": 660,
+        "zipcode": "28916",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 12.0309,
+        "amount": 660,
+        "zipcode": "26946",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 17.7555,
+        "amount": 660,
+        "zipcode": "53173",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 14.6701,
+        "amount": 660,
+        "zipcode": "30253",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 11.5979,
+        "amount": 660,
+        "zipcode": "30378",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 19.8709,
+        "amount": 660,
+        "zipcode": "38926",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 16.829,
+        "amount": 660,
+        "zipcode": "78120",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 13.7772,
+        "amount": 660,
+        "zipcode": "38180",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 12.6736,
+        "amount": 660,
+        "zipcode": "88720",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 15.658,
+        "amount": 660,
+        "zipcode": "38550",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 18.67075,
+        "amount": 660,
+        "zipcode": "79393",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 18.95615,
+        "amount": 660,
+        "zipcode": "89193",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 13.95615,
+        "amount": 660,
+        "zipcode": "39394",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 19.8347,
+        "amount": 660,
+        "zipcode": "59391",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 14.2228,
+        "amount": 740,
+        "zipcode": "48353",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 11.66,
+        "amount": 660,
+        "zipcode": "27812",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 12.7732,
+        "amount": 660,
+        "zipcode": "36012",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 14.7216,
+        "amount": 660,
+        "zipcode": "47402",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 14.6186,
+        "amount": 660,
+        "zipcode": "38212",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 17.5979,
+        "amount": 660,
+        "zipcode": "67412",
+        "country": "Germany",
+        "date": "2024-08-29"
+      }
+    ],
+    [
+      {
+        "price": 9.75,
+        "amount": 1267,
+        "zipcode": "11671",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 14.15,
+        "amount": 660,
+        "zipcode": "81109",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 10.05,
+        "amount": 660,
+        "zipcode": "00208",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 16.15,
+        "amount": 660,
+        "zipcode": "01280",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.1,
+        "amount": 660,
+        "zipcode": "05169",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 12.1,
+        "amount": 660,
+        "zipcode": "71889",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 17.1,
+        "amount": 660,
+        "zipcode": "31187",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 13.16,
+        "amount": 660,
+        "zipcode": "01141",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 9.29,
+        "amount": 1320,
+        "zipcode": "36348",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 17.5,
+        "amount": 660,
+        "zipcode": "07831",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 10.2591,
+        "amount": 30000,
+        "zipcode": "71130",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 13.2073,
+        "amount": 660,
+        "zipcode": "05138",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 14.567,
+        "amount": 660,
+        "zipcode": "93556",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 14.268,
+        "amount": 660,
+        "zipcode": "06536",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 18.4105,
+        "amount": 660,
+        "zipcode": "46656",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 19.2,
+        "amount": 660,
+        "zipcode": "06050",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 15.7216,
+        "amount": 660,
+        "zipcode": "96356",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 13.3109,
+        "amount": 660,
+        "zipcode": "12626",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 14.3886,
+        "amount": 660,
+        "zipcode": "12026",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 10.2591,
+        "amount": 660,
+        "zipcode": "12641",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 13.0,
+        "amount": 660,
+        "zipcode": "07848",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 17.1546,
+        "amount": 660,
+        "zipcode": "01159",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 17.1134,
+        "amount": 1980,
+        "zipcode": "00889",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 19.15,
+        "amount": 1980,
+        "zipcode": "96189",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 17.5155,
+        "amount": 660,
+        "zipcode": "01293",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.3093,
+        "amount": 660,
+        "zipcode": "03222",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 19.2073,
+        "amount": 660,
+        "zipcode": "78283",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.3608,
+        "amount": 660,
+        "zipcode": "08005",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 13.3093,
+        "amount": 660,
+        "zipcode": "18825",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 12.2073,
+        "amount": 660,
+        "zipcode": "08028",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.134,
+        "amount": 660,
+        "zipcode": "58522",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 16.23195,
+        "amount": 660,
+        "zipcode": "31179",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 11.0,
+        "amount": 660,
+        "zipcode": "67234",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 15.0,
+        "amount": 660,
+        "zipcode": "18134",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 16.5319,
+        "amount": 660,
+        "zipcode": "00458",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 19.87765,
+        "amount": 660,
+        "zipcode": "07758",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 16.0213,
+        "amount": 660,
+        "zipcode": "46428",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 14.9043,
+        "amount": 660,
+        "zipcode": "06455",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 10.2976,
+        "amount": 660,
+        "zipcode": "16558",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 15.6383,
+        "amount": 660,
+        "zipcode": "07351",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 16.7979,
+        "amount": 660,
+        "zipcode": "18552",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 15.71515556,
+        "amount": 660,
+        "zipcode": "38342",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 19.117,
+        "amount": 660,
+        "zipcode": "06652",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 16.9043,
+        "amount": 660,
+        "zipcode": "02352",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 18.1546,
+        "amount": 660,
+        "zipcode": "09589",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 14.8332,
+        "amount": 660,
+        "zipcode": "87947",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 10.3093,
+        "amount": 660,
+        "zipcode": "07731",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 16.567,
+        "amount": 660,
+        "zipcode": "06937",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 17.3523,
+        "amount": 660,
+        "zipcode": "13546",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 11.4124,
+        "amount": 660,
+        "zipcode": "16536",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 16.7732,
+        "amount": 660,
+        "zipcode": "36546",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 16.8247,
+        "amount": 660,
+        "zipcode": "68746",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 11.7216,
+        "amount": 660,
+        "zipcode": "13596",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 12.2062,
+        "amount": 660,
+        "zipcode": "04238",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 19.567,
+        "amount": 660,
+        "zipcode": "04834",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.2887,
+        "amount": 660,
+        "zipcode": "34835",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 11.2591,
+        "amount": 660,
+        "zipcode": "83830",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.6218,
+        "amount": 660,
+        "zipcode": "00160",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 10.0933,
+        "amount": 30000,
+        "zipcode": "03280",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 17.5699,
+        "amount": 30000,
+        "zipcode": "03932",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 19.6062,
+        "amount": 30000,
+        "zipcode": "53830",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 15.0777,
+        "amount": 30000,
+        "zipcode": "32130",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 12.57,
+        "amount": 6600,
+        "zipcode": "31130",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 17.0881,
+        "amount": 30000,
+        "zipcode": "08140",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 18.1546,
+        "amount": 660,
+        "zipcode": "11789",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 9.1454,
+        "amount": 660,
+        "zipcode": "35233",
+        "country": "Germany",
+        "date": "2024-08-29"
+      }
+    ],
+    [
+      {
+        "price": 13.75,
+        "amount": 131,
+        "zipcode": "82020",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 17.6,
+        "amount": 660,
+        "zipcode": "99244",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 18.55,
+        "amount": 660,
+        "zipcode": "79269",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 19.2,
+        "amount": 660,
+        "zipcode": "89213",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 10.3,
+        "amount": 660,
+        "zipcode": "55103",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 17.4,
+        "amount": 660,
+        "zipcode": "02169",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.45,
+        "amount": 626,
+        "zipcode": "57242",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 16.75,
+        "amount": 660,
+        "zipcode": "90880",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 13.63,
+        "amount": 660,
+        "zipcode": "69837",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 18.82,
+        "amount": 660,
+        "zipcode": "89387",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 12.8,
+        "amount": 660,
+        "zipcode": "03301",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 11.65,
+        "amount": 660,
+        "zipcode": "47357",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 12.19,
+        "amount": 660,
+        "zipcode": "03215",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 11.65,
+        "amount": 660,
+        "zipcode": "64193",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 11.6737,
+        "amount": 660,
+        "zipcode": "97095",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 11.6186,
+        "amount": 660,
+        "zipcode": "97121",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 13.5053,
+        "amount": 660,
+        "zipcode": "72531",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 18.9588,
+        "amount": 660,
+        "zipcode": "90273",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 11.6186,
+        "amount": 660,
+        "zipcode": "11673",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 19.5053,
+        "amount": 660,
+        "zipcode": "98379",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 11.7068,
+        "amount": 660,
+        "zipcode": "08663",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 12.3109,
+        "amount": 660,
+        "zipcode": "95773",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 12.6186,
+        "amount": 660,
+        "zipcode": "94153",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 15.5053,
+        "amount": 660,
+        "zipcode": "91364",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 17.9022,
+        "amount": 660,
+        "zipcode": "76824",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 14.9565,
+        "amount": 660,
+        "zipcode": "62227",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 10.6186,
+        "amount": 660,
+        "zipcode": "95204",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 16.6186,
+        "amount": 660,
+        "zipcode": "66265",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 17.5053,
+        "amount": 660,
+        "zipcode": "96266",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 10.6186,
+        "amount": 660,
+        "zipcode": "86120",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 11.4433,
+        "amount": 660,
+        "zipcode": "99890",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 14.0309,
+        "amount": 660,
+        "zipcode": "86334",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 16.8041,
+        "amount": 660,
+        "zipcode": "87733",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 19.6186,
+        "amount": 660,
+        "zipcode": "96353",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 14.5979,
+        "amount": 660,
+        "zipcode": "96372",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 14.8763,
+        "amount": 660,
+        "zipcode": "91815",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 17.4433,
+        "amount": 660,
+        "zipcode": "98585",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 16.4663,
+        "amount": 660,
+        "zipcode": "91503",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.6701,
+        "amount": 660,
+        "zipcode": "93706",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 10.3109,
+        "amount": 660,
+        "zipcode": "55707",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 14.0825,
+        "amount": 660,
+        "zipcode": "30031",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 14.9326,
+        "amount": 660,
+        "zipcode": "80036",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.0309,
+        "amount": 660,
+        "zipcode": "85415",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 15.9278,
+        "amount": 660,
+        "zipcode": "09416",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 18.7321,
+        "amount": 660,
+        "zipcode": "71168",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 17.4738,
+        "amount": 660,
+        "zipcode": "77287",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 12.2887,
+        "amount": 660,
+        "zipcode": "76235",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 12.399,
+        "amount": 660,
+        "zipcode": "46221",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.0825,
+        "amount": 660,
+        "zipcode": "71927",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 19.0309,
+        "amount": 660,
+        "zipcode": "76270",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.7216,
+        "amount": 660,
+        "zipcode": "92559",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 15.4663,
+        "amount": 660,
+        "zipcode": "92557",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 19.7216,
+        "amount": 660,
+        "zipcode": "92536",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 18.8017,
+        "amount": 660,
+        "zipcode": "73414",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 19.2887,
+        "amount": 660,
+        "zipcode": "63432",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 13.399,
+        "amount": 660,
+        "zipcode": "73632",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 15.0825,
+        "amount": 660,
+        "zipcode": "78442",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 15.2887,
+        "amount": 660,
+        "zipcode": "73491",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 18.0309,
+        "amount": 660,
+        "zipcode": "73452",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.4663,
+        "amount": 660,
+        "zipcode": "82232",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.7216,
+        "amount": 660,
+        "zipcode": "93222",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.7216,
+        "amount": 660,
+        "zipcode": "92211",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 11.4533,
+        "amount": 660,
+        "zipcode": "38433",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 15.7254,
+        "amount": 660,
+        "zipcode": "36439",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 18.2371,
+        "amount": 660,
+        "zipcode": "36063",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 14.8247,
+        "amount": 660,
+        "zipcode": "36232",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 13.4681,
+        "amount": 660,
+        "zipcode": "99435",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 16.3918,
+        "amount": 660,
+        "zipcode": "99364",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 13.6566,
+        "amount": 660,
+        "zipcode": "92839",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.7782,
+        "amount": 660,
+        "zipcode": "79291",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 18.0825,
+        "amount": 660,
+        "zipcode": "79621",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 10.2371,
+        "amount": 660,
+        "zipcode": "70211",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 10.399,
+        "amount": 660,
+        "zipcode": "77210",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 13.5766,
+        "amount": 660,
+        "zipcode": "69185",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 14.75,
+        "amount": 660,
+        "zipcode": "99675",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 15.6186,
+        "amount": 660,
+        "zipcode": "09885",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 15.7782,
+        "amount": 660,
+        "zipcode": "79213",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 14.2371,
+        "amount": 660,
+        "zipcode": "19711",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 12.1134,
+        "amount": 330,
+        "zipcode": "49011",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 19.399,
+        "amount": 660,
+        "zipcode": "72221",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 18.4663,
+        "amount": 660,
+        "zipcode": "91721",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 16.7216,
+        "amount": 660,
+        "zipcode": "62703",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 12.6186,
+        "amount": 660,
+        "zipcode": "92263",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 17.8763,
+        "amount": 660,
+        "zipcode": "92527",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 16.2887,
+        "amount": 660,
+        "zipcode": "76923",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 10.2371,
+        "amount": 660,
+        "zipcode": "88820",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 17.8808,
+        "amount": 660,
+        "zipcode": "95606",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 13.0638,
+        "amount": 660,
+        "zipcode": "93666",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 13.2234,
+        "amount": 660,
+        "zipcode": "95618",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 12.8656,
+        "amount": 660,
+        "zipcode": "97722",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 11.0638,
+        "amount": 660,
+        "zipcode": "97471",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 12.0213,
+        "amount": 660,
+        "zipcode": "97972",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 19.9681,
+        "amount": 660,
+        "zipcode": "97777",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 16.2234,
+        "amount": 660,
+        "zipcode": "97472",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 14.383,
+        "amount": 660,
+        "zipcode": "86071",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 14.117,
+        "amount": 660,
+        "zipcode": "86951",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 16.9149,
+        "amount": 660,
+        "zipcode": "56981",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 10.0638,
+        "amount": 660,
+        "zipcode": "36189",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 15.117,
+        "amount": 660,
+        "zipcode": "51189",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 10.2234,
+        "amount": 660,
+        "zipcode": "45119",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 19.3058,
+        "amount": 660,
+        "zipcode": "36189",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 17.0106,
+        "amount": 660,
+        "zipcode": "05180",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 15.4122,
+        "amount": 660,
+        "zipcode": "56814",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 11.7254,
+        "amount": 660,
+        "zipcode": "36719",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 17.2371,
+        "amount": 660,
+        "zipcode": "16434",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 16.8247,
+        "amount": 660,
+        "zipcode": "36319",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 18.8247,
+        "amount": 660,
+        "zipcode": "36474",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 13.7732,
+        "amount": 660,
+        "zipcode": "36310",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 11.8454,
+        "amount": 660,
+        "zipcode": "37454",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 16.2887,
+        "amount": 660,
+        "zipcode": "83618",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 11.0309,
+        "amount": 660,
+        "zipcode": "81135",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 15.4948,
+        "amount": 660,
+        "zipcode": "83895",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 16.5448,
+        "amount": 660,
+        "zipcode": "91868",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 15.4663,
+        "amount": 660,
+        "zipcode": "29827",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 15.7216,
+        "amount": 660,
+        "zipcode": "90067",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 10.8763,
+        "amount": 660,
+        "zipcode": "96067",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 10.6186,
+        "amount": 660,
+        "zipcode": "93867",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 13.7732,
+        "amount": 660,
+        "zipcode": "29167",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 16.6211,
+        "amount": 660,
+        "zipcode": "39267",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 14.8763,
+        "amount": 1980,
+        "zipcode": "97359",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 11.4227,
+        "amount": 1980,
+        "zipcode": "90353",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.5471,
+        "amount": 1980,
+        "zipcode": "47356",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 12.0309,
+        "amount": 660,
+        "zipcode": "75144",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 10.4972,
+        "amount": 660,
+        "zipcode": "16844",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 11.3402,
+        "amount": 660,
+        "zipcode": "46844",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 19.2371,
+        "amount": 660,
+        "zipcode": "16741",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 17.3299,
+        "amount": 660,
+        "zipcode": "76646",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 18.6124,
+        "amount": 660,
+        "zipcode": "37193",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 18.8763,
+        "amount": 660,
+        "zipcode": "93191",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 10.7732,
+        "amount": 660,
+        "zipcode": "95196",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 14.5061,
+        "amount": 660,
+        "zipcode": "04010",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 16.0309,
+        "amount": 660,
+        "zipcode": "72000",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 11.2887,
+        "amount": 660,
+        "zipcode": "71020",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 16.1856,
+        "amount": 660,
+        "zipcode": "74900",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 18.6495,
+        "amount": 660,
+        "zipcode": "55080",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 17.5061,
+        "amount": 660,
+        "zipcode": "84081",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 13.2715,
+        "amount": 660,
+        "zipcode": "96080",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 15.0309,
+        "amount": 660,
+        "zipcode": "70880",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 19.2887,
+        "amount": 660,
+        "zipcode": "64480",
+        "country": "Germany",
+        "date": "2024-08-30"
+      }
+    ],
+    [
+      {
+        "price": 14.95,
+        "amount": 1167,
+        "zipcode": "02438",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 10.1,
+        "amount": 660,
+        "zipcode": "49155",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 19.19,
+        "amount": 660,
+        "zipcode": "40770",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 17.95,
+        "amount": 660,
+        "zipcode": "49192",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 14.3,
+        "amount": 660,
+        "zipcode": "78253",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 13.95,
+        "amount": 660,
+        "zipcode": "52728",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.3,
+        "amount": 660,
+        "zipcode": "45782",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 10.3,
+        "amount": 660,
+        "zipcode": "42868",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 19.15,
+        "amount": 660,
+        "zipcode": "46358",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 18.15,
+        "amount": 660,
+        "zipcode": "47354",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 11.48,
+        "amount": 660,
+        "zipcode": "69481",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.48,
+        "amount": 660,
+        "zipcode": "59588",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 19.78,
+        "amount": 660,
+        "zipcode": "48582",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 17.75,
+        "amount": 660,
+        "zipcode": "49779",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 11.7,
+        "amount": 660,
+        "zipcode": "20626",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 12.3,
+        "amount": 722,
+        "zipcode": "44888",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 14.78,
+        "amount": 660,
+        "zipcode": "48475",
+        "country": "Germany",
+        "date": "2024-08-23"
+      },
+      {
+        "price": 15.9,
+        "amount": 660,
+        "zipcode": "09252",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.48,
+        "amount": 660,
+        "zipcode": "59548",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 16.48,
+        "amount": 660,
+        "zipcode": "19571",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 11.3,
+        "amount": 660,
+        "zipcode": "49828",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 18.3,
+        "amount": 760,
+        "zipcode": "38656",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 11.95,
+        "amount": 660,
+        "zipcode": "79571",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 12.99,
+        "amount": 740,
+        "zipcode": "01526",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 15.16,
+        "amount": 1320,
+        "zipcode": "57426",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 15.0363,
+        "amount": 3960,
+        "zipcode": "56326",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 14.134,
+        "amount": 3960,
+        "zipcode": "40229",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 16.5464,
+        "amount": 3960,
+        "zipcode": "50324",
+        "country": "Germany",
+        "date": "2024-08-25"
+      },
+      {
+        "price": 14.9278,
+        "amount": 3960,
+        "zipcode": "80226",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 16.8247,
+        "amount": 660,
+        "zipcode": "94214",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 14.6211,
+        "amount": 660,
+        "zipcode": "34812",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 14.3918,
+        "amount": 660,
+        "zipcode": "45664",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 11.8866,
+        "amount": 660,
+        "zipcode": "40864",
+        "country": "Germany",
+        "date": "2024-08-01"
+      },
+      {
+        "price": 12.01575,
+        "amount": 660,
+        "zipcode": "40661",
+        "country": "Germany",
+        "date": "2024-08-02"
+      },
+      {
+        "price": 11.3918,
+        "amount": 660,
+        "zipcode": "42739",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 16.1856,
+        "amount": 660,
+        "zipcode": "44782",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 13.2953,
+        "amount": 660,
+        "zipcode": "51047",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 13.2435,
+        "amount": 660,
+        "zipcode": "71849",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 19.0363,
+        "amount": 660,
+        "zipcode": "35149",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 14.4948,
+        "amount": 660,
+        "zipcode": "49206",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 19.0412,
+        "amount": 740,
+        "zipcode": "17196",
+        "country": "Germany",
+        "date": "2024-08-05"
+      },
+      {
+        "price": 11.0825,
+        "amount": 660,
+        "zipcode": "56313",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 17.2371,
+        "amount": 660,
+        "zipcode": "77619",
+        "country": "Germany",
+        "date": "2024-08-06"
+      },
+      {
+        "price": 15.0363,
+        "amount": 660,
+        "zipcode": "37319",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 17.268,
+        "amount": 740,
+        "zipcode": "49427",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 13.134,
+        "amount": 660,
+        "zipcode": "85624",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 15.134,
+        "amount": 660,
+        "zipcode": "47634",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 12.6776,
+        "amount": 660,
+        "zipcode": "10624",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 17.829,
+        "amount": 660,
+        "zipcode": "49124",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.0825,
+        "amount": 660,
+        "zipcode": "58571",
+        "country": "Germany",
+        "date": "2024-08-07"
+      },
+      {
+        "price": 14.1895,
+        "amount": 660,
+        "zipcode": "56569",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.0363,
+        "amount": 660,
+        "zipcode": "78569",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 17.134,
+        "amount": 660,
+        "zipcode": "18519",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 12.0309,
+        "amount": 660,
+        "zipcode": "57579",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 18.9794,
+        "amount": 1320,
+        "zipcode": "89458",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 14.2268,
+        "amount": 1480,
+        "zipcode": "48453",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 15.6747,
+        "amount": 1320,
+        "zipcode": "66456",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 14.829,
+        "amount": 1320,
+        "zipcode": "89496",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 13.0825,
+        "amount": 660,
+        "zipcode": "58047",
+        "country": "Germany",
+        "date": "2024-08-08"
+      },
+      {
+        "price": 15.1727,
+        "amount": 660,
+        "zipcode": "68840",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 10.8557,
+        "amount": 660,
+        "zipcode": "58849",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 15.0363,
+        "amount": 660,
+        "zipcode": "08440",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 15.3565,
+        "amount": 660,
+        "zipcode": "68529",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 12.0363,
+        "amount": 660,
+        "zipcode": "09535",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.2371,
+        "amount": 660,
+        "zipcode": "38539",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.9278,
+        "amount": 660,
+        "zipcode": "64735",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 19.4864,
+        "amount": 660,
+        "zipcode": "69509",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 18.0363,
+        "amount": 660,
+        "zipcode": "66859",
+        "country": "Germany",
+        "date": "2024-08-09"
+      },
+      {
+        "price": 11.0309,
+        "amount": 660,
+        "zipcode": "64579",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 16.498,
+        "amount": 660,
+        "zipcode": "49568",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 15.24,
+        "amount": 495,
+        "zipcode": "48368",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 15.9794,
+        "amount": 495,
+        "zipcode": "48063",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 15.829,
+        "amount": 660,
+        "zipcode": "48283",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 16.6608,
+        "amount": 660,
+        "zipcode": "59693",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 16.1856,
+        "amount": 740,
+        "zipcode": "19391",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 12.0825,
+        "amount": 660,
+        "zipcode": "09393",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 19.829,
+        "amount": 660,
+        "zipcode": "43303",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 16.9278,
+        "amount": 660,
+        "zipcode": "49893",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 17.3918,
+        "amount": 660,
+        "zipcode": "69593",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 12.0309,
+        "amount": 660,
+        "zipcode": "09393",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 16.2382,
+        "amount": 660,
+        "zipcode": "55273",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 19.9794,
+        "amount": 660,
+        "zipcode": "35375",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 13.8247,
+        "amount": 660,
+        "zipcode": "85272",
+        "country": "Germany",
+        "date": "2024-08-13"
+      },
+      {
+        "price": 19.7254,
+        "amount": 660,
+        "zipcode": "25274",
+        "country": "Germany",
+        "date": "2024-08-12"
+      },
+      {
+        "price": 16.2371,
+        "amount": 660,
+        "zipcode": "17274",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 15.8041,
+        "amount": 3960,
+        "zipcode": "40344",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 11.2887,
+        "amount": 3960,
+        "zipcode": "46454",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 13.2887,
+        "amount": 3960,
+        "zipcode": "43353",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 12.0309,
+        "amount": 3960,
+        "zipcode": "46894",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 15.829,
+        "amount": 3960,
+        "zipcode": "46351",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 12.0309,
+        "amount": 3960,
+        "zipcode": "48054",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 11.5979,
+        "amount": 3960,
+        "zipcode": "16350",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 14.3918,
+        "amount": 3960,
+        "zipcode": "46382",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 15.6713,
+        "amount": 1980,
+        "zipcode": "29693",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 18.5979,
+        "amount": 1980,
+        "zipcode": "49698",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 18.1856,
+        "amount": 1980,
+        "zipcode": "09293",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 11.8763,
+        "amount": 1320,
+        "zipcode": "09391",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 13.0309,
+        "amount": 1980,
+        "zipcode": "45399",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 11.829,
+        "amount": 1980,
+        "zipcode": "45373",
+        "country": "Germany",
+        "date": "2024-08-14"
+      },
+      {
+        "price": 19.0928,
+        "amount": 1320,
+        "zipcode": "35766",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 15.134,
+        "amount": 1320,
+        "zipcode": "58766",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 13.2577,
+        "amount": 1520,
+        "zipcode": "51746",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 11.0309,
+        "amount": 1320,
+        "zipcode": "51796",
+        "country": "Germany",
+        "date": "2024-08-15"
+      },
+      {
+        "price": 12.9278,
+        "amount": 1520,
+        "zipcode": "50766",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 15.0531,
+        "amount": 660,
+        "zipcode": "43076",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 11.134,
+        "amount": 660,
+        "zipcode": "59376",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 18.0309,
+        "amount": 660,
+        "zipcode": "31076",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 13.1856,
+        "amount": 760,
+        "zipcode": "77071",
+        "country": "Germany",
+        "date": "2024-08-16"
+      },
+      {
+        "price": 12.8557,
+        "amount": 660,
+        "zipcode": "57771",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 19.0309,
+        "amount": 660,
+        "zipcode": "57626",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 14.6037,
+        "amount": 660,
+        "zipcode": "03326",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 13.3918,
+        "amount": 660,
+        "zipcode": "49406",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 14.0309,
+        "amount": 660,
+        "zipcode": "42329",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 17.9278,
+        "amount": 660,
+        "zipcode": "59926",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.9794,
+        "amount": 740,
+        "zipcode": "49936",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 16.1856,
+        "amount": 660,
+        "zipcode": "49357",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 16.7732,
+        "amount": 660,
+        "zipcode": "49359",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 18.7732,
+        "amount": 660,
+        "zipcode": "49355",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 17.829,
+        "amount": 660,
+        "zipcode": "49396",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 16.8423,
+        "amount": 660,
+        "zipcode": "11695",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 16.0363,
+        "amount": 660,
+        "zipcode": "51115",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 11.0309,
+        "amount": 660,
+        "zipcode": "41655",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 11.9596,
+        "amount": 660,
+        "zipcode": "51542",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 12.6162,
+        "amount": 660,
+        "zipcode": "21646",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 19.8081,
+        "amount": 660,
+        "zipcode": "51601",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 11.43,
+        "amount": 660,
+        "zipcode": "59225",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 13.134,
+        "amount": 660,
+        "zipcode": "90269",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 12.0309,
+        "amount": 660,
+        "zipcode": "59264",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 14.1856,
+        "amount": 660,
+        "zipcode": "59729",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 17.1237,
+        "amount": 660,
+        "zipcode": "50289",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 13.0363,
+        "amount": 660,
+        "zipcode": "27269",
+        "country": "Germany",
+        "date": "2024-08-19"
+      },
+      {
+        "price": 10.0309,
+        "amount": 660,
+        "zipcode": "57268",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 10.0412,
+        "amount": 660,
+        "zipcode": "59869",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 14.2628,
+        "amount": 660,
+        "zipcode": "41155",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 15.3918,
+        "amount": 660,
+        "zipcode": "49179",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 18.0309,
+        "amount": 660,
+        "zipcode": "08199",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 18.4433,
+        "amount": 660,
+        "zipcode": "42899",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 15.829,
+        "amount": 660,
+        "zipcode": "44899",
+        "country": "Germany",
+        "date": "2024-08-20"
+      },
+      {
+        "price": 11.5979,
+        "amount": 660,
+        "zipcode": "47199",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 10.7655,
+        "amount": 660,
+        "zipcode": "49294",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 15.383,
+        "amount": 660,
+        "zipcode": "55404",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 19.38086,
+        "amount": 660,
+        "zipcode": "59124",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 10.4894,
+        "amount": 660,
+        "zipcode": "51894",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 18.4787,
+        "amount": 740,
+        "zipcode": "59590",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 15.8617,
+        "amount": 660,
+        "zipcode": "59463",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 15.8085,
+        "amount": 660,
+        "zipcode": "52434",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 16.4894,
+        "amount": 660,
+        "zipcode": "58444",
+        "country": "Germany",
+        "date": "2024-08-26"
+      },
+      {
+        "price": 10.6328,
+        "amount": 660,
+        "zipcode": "64567",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 11.383,
+        "amount": 660,
+        "zipcode": "64587",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 15.7021,
+        "amount": 660,
+        "zipcode": "04504",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 13.4894,
+        "amount": 660,
+        "zipcode": "64324",
+        "country": "Germany",
+        "date": "2024-08-22"
+      },
+      {
+        "price": 19.8085,
+        "amount": 660,
+        "zipcode": "63184",
+        "country": "Germany",
+        "date": "2024-08-21"
+      },
+      {
+        "price": 14.829,
+        "amount": 660,
+        "zipcode": "49302",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 17.3918,
+        "amount": 660,
+        "zipcode": "49162",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.0309,
+        "amount": 660,
+        "zipcode": "41102",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 16.0825,
+        "amount": 660,
+        "zipcode": "42122",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 10.8763,
+        "amount": 660,
+        "zipcode": "48252",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 18.0825,
+        "amount": 660,
+        "zipcode": "42156",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 13.0309,
+        "amount": 660,
+        "zipcode": "42061",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 13.2197,
+        "amount": 660,
+        "zipcode": "37369",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 19.8041,
+        "amount": 660,
+        "zipcode": "43364",
+        "country": "Germany",
+        "date": "2024-08-27"
+      },
+      {
+        "price": 16.0309,
+        "amount": 660,
+        "zipcode": "48268",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 18.4913,
+        "amount": 660,
+        "zipcode": "04268",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 15.98,
+        "amount": 660,
+        "zipcode": "47263",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 11.8041,
+        "amount": 660,
+        "zipcode": "48242",
+        "country": "Germany",
+        "date": "2024-08-28"
+      },
+      {
+        "price": 13.4019,
+        "amount": 660,
+        "zipcode": "58301",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 14.2887,
+        "amount": 660,
+        "zipcode": "46801",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 18.9897,
+        "amount": 150,
+        "zipcode": "48321",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 17.9278,
+        "amount": 660,
+        "zipcode": "48377",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 11.67075,
+        "amount": 660,
+        "zipcode": "46693",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 15.95615,
+        "amount": 660,
+        "zipcode": "49393",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 17.95615,
+        "amount": 660,
+        "zipcode": "77393",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 13.8347,
+        "amount": 660,
+        "zipcode": "39893",
+        "country": "Germany",
+        "date": "2024-08-29"
+      },
+      {
+        "price": 14.2228,
+        "amount": 740,
+        "zipcode": "09293",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 15.1025,
+        "amount": 660,
+        "zipcode": "14766",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 12.3402,
+        "amount": 760,
+        "zipcode": "51126",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 16.9278,
+        "amount": 660,
+        "zipcode": "51866",
+        "country": "Germany",
+        "date": "2024-08-30"
+      },
+      {
+        "price": 11.4227,
+        "amount": 660,
+        "zipcode": "51761",
+        "country": "Germany",
+        "date": "2024-08-30"
+      }
+    ]
+  ]
+}
