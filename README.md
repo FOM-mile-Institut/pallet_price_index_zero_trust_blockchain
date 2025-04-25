@@ -1,0 +1,2 @@
+# pallet_price_index_zero_trust_blockchain
+pallet_price_index_zero_trust_blockchain
